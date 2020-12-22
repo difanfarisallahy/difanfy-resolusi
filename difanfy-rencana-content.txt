@@ -4,6 +4,7 @@ RENCANA CONTENT DIFAN FY
   * PHP 7
   * Framework PHP
     ^ CI-4
+    ^ Laravel
 - CSS
   * Bootstrap
 - Video Games
